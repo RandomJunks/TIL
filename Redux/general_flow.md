@@ -29,7 +29,9 @@ __Redux has (always) a single store. (root-store)__
 ## Differences between redux, redux-thunk, and react-redux.
 
 __redux__ : main library (independent from React)
+
 __redux-thunk__: a redux middleware which helps you with async actions
+
 __react-redux__: connects your redux store with ReactComponents
 
 

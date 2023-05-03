@@ -1,6 +1,6 @@
-<!-- general flow of redux -->
+<!-- general flow and overview of redux -->
 
-## Control flow of Redux
+## Control flow and overview of Redux
 
 __Redux has (always) a single store. (root-store)__
 

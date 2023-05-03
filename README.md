@@ -1,2 +1,2 @@
-# TIL
-random information I've learned
+# TIL - Today I Learned
+random bits of information I've learned

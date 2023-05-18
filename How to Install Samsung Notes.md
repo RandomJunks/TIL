@@ -1,4 +1,6 @@
+How to install Samsung Notes on any windows devices
+
 1. Open command prompt
-2. type: winget install "Samsung Notes"
-3. yes to 2 agreements
-4. Enjoy!
+3. type: winget install "Samsung Notes"
+4. yes to 2 agreements
+5. Enjoy!
